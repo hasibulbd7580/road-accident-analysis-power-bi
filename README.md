@@ -59,9 +59,7 @@ The project explores accident trends, severity, casualties, road and environment
 
 ### Dashboard Preview
 
-![Accident Overview](dashboard/accident-overview.png)
-
----
+https://github.com/hasibulbd7580/road-accident-analysis-power-bi/blob/main/Accident%20Overview.png
 
 ## 🔎 Key Insights
 
