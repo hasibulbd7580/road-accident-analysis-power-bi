@@ -59,6 +59,9 @@ The project explores accident trends, severity, casualties, road and environment
 
 ### Dashboard Preview
 ![Accident Overview](Accident%20Overview.png)
+![Severity Analysis](Severity%20Analysis.png)
+![Location Analysis](Location%20Analysis.png)
+![Vehicles and Road Analysis](Vehicles%20and%20Road%20Analysis.png)
   
 ## 🔎 Key Insights
 
