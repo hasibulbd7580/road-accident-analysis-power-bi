@@ -95,26 +95,7 @@ The project explores accident trends, severity, casualties, road and environment
 
 ---
 
-## 📁 Repository Structure
 
-```text
-road-accident-analysis-power-bi/
-│
-├── README.md
-├── data/
-│   └── accident_data.csv
-├── powerbi/
-│   └── Accident Project.pbix
-├── dashboard/
-│   ├── accident-overview.png
-│   ├── severity-analysis.png
-│   ├── location-analysis.png
-│   └── vehicle-road-analysis.png
-└── insights/
-    └── key-insights.md
-```
-
----
 
 ## ⚠️ Limitations
 
@@ -127,7 +108,7 @@ road-accident-analysis-power-bi/
 
 ## 👤 Author
 
-**Anik Islam**
+**Md.Hasibul Islam**
 
 **Aspiring Data Analyst | Power BI | SQL | Excel | Python**
 
