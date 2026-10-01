@@ -70,9 +70,7 @@ The project explores accident trends, severity, casualties, road and environment
 * Single carriageways accounted for approximately **74.49%** of recorded accidents.
 * November had the highest monthly accident count.
 
-> These are descriptive patterns in the dataset and should not be interpreted as causal relationships.
 
----
 
 ## 🛠️ Tools & Skills
 
