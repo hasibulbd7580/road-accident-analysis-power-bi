@@ -58,9 +58,7 @@ The project explores accident trends, severity, casualties, road and environment
 * Road type analysis
 
 ### Dashboard Preview
-
-https://github.com/hasibulbd7580/road-accident-analysis-power-bi/blob/main/Accident%20Overview.png
-
+### Accident Overview
 ## 🔎 Key Insights
 
 * Recorded accidents decreased by approximately **20.7% from 2019 to 2022**.
